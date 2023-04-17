@@ -17,7 +17,7 @@ Installation
 # Dataset
 The dataset used for this project is the HAM10000 dataset, which contains 10,000 dermatoscopic images of pigmented lesions. The images are classified into seven categories: melanocytic nevi, melanoma, benign keratosis, basal cell carcinoma, actinic keratoses, vascular lesions, and dermatofibroma. For this project, we only used the images that were labeled as either benign or malignant.
 
-#Pretrained Model
+# Pretrained Model
 The pretrained ResNet50 model was used as the backbone of the convolutional neural network. This model has been trained on a large dataset of images and has learned to recognize a wide variety of features. By using this model, we can take advantage of its prelearned features and fine-tune it for our specific task.
 
 # Performance
